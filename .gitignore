@@ -1,3 +1,5 @@
-*.zip
 *.gz
+*.tar.gz
+*.tar
+*.zip
 _MACOSX\
