@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 21 Apr 2021 11:38:30 .. please wait!
+httrack http://ttu-eime.csc.tntech.edu/ -%! -O ttu-eime +*ttu-eime.csc.tntech.edu/* -v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=13586
+UID=1707767573
+GID=1707767573
+START=1619023110
